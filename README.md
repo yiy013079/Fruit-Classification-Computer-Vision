@@ -7,14 +7,10 @@ Our features consist of 100×100 resized image pixels, and the label is the prod
 
 We trained and compared four models:
 
-A baseline custom CNN,
-
-ResNet18,
-
-EfficientNet-B0,
-
-DenseNet-121.
-
-And a web applicatio  showing real use of the model
+1. A baseline custom CNN,
+2. ResNet18,
+3. EfficientNet-B0,
+4. DenseNet-121.
+5. a web applicatio  showing real use of the model
 
 Our goal is to deliver a high-accuracy model that reduces checkout errors and supports real-time product recognition, ultimately improving customer experience and operational performance in retail environments.
